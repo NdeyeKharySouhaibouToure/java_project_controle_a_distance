@@ -1,4 +1,4 @@
-# Projet Contrôle à Distance
+# Projet Contrôle à Distance-Groupe-16
 
 ## Description
 Ce projet est une application Java qui permet de contrôler un ordinateur à distance.
